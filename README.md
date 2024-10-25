@@ -5,6 +5,9 @@ This repository contains practice materials for designing and simulating operati
 
 ## Getting Started
 
+### Topology
+![Opamp Design](extras/topology.jpg)
+
 ### How to Use
 
 1. **Clone the repository**  
